@@ -104,5 +104,8 @@ public class QuickFindUF{
         }
     }
 }
-// quick find is too slow
+// quick find is too slow for huge problems
 // union is too expensive
+
+
+// Quick-union is called lazy approach  
